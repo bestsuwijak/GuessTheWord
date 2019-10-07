@@ -94,7 +94,6 @@
             app:layout_constraintBottom_toTopOf="@+id/guideline"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            android:text="@{String.valueOf(scoreViewModel.score)}"
             tools:text="Score: 2" />
 
         <Button
